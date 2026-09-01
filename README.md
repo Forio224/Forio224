@@ -27,5 +27,5 @@ Backend-разработчик. Основной стек — **Python**. Инт
 **[Biometric Microservice](https://github.com/Forio224/Biometric-Microservice)** — сервис
 аутентификации по клавиатурному почерку: собирает тайминги нажатий, строит профиль
 пользователя и оценивает, он ли это.
-`TypeScript` · `<БД>` · `Docker`
+`TypeScript` · `БД` · `Docker`
 
